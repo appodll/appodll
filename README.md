@@ -54,13 +54,13 @@
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appodll&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
+<br/><br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=appodll&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=appodll&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=appodll&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=appodll&theme=tokyonight&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
