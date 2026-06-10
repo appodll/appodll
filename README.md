@@ -56,11 +56,7 @@
 
 <br/><br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=appodll&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=appodll&theme=tokyonight&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=appodll&theme=tokyonight&hide_border=true&layout=compact" />
 
 </div>
 
