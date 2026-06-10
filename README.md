@@ -1,7 +1,6 @@
 <div align="center">
 
 ![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=80&lines=Hi+I'm+Khanish+Aghalarov+👋)
-
 ![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Flutter+%26+Mobile+Developer;Full-Stack+Engineer;4%2B+Years+of+Experience;Building+Products+That+Ship)
 
 </div>
@@ -51,8 +50,8 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=appodll&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanish Aghalarov&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=appodll&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appodll&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/>
 
