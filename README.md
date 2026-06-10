@@ -51,16 +51,16 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Khanish Aghalarov&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=appodll&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanish Aghalarov&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Khanish Aghalarov&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=appodll&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Khanish Aghalarov&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=appodll&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
 
 </div>
 
